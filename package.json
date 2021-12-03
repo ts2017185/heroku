@@ -1,0 +1,14 @@
+{
+    "name": "heroku",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/ts2017185/heroku.git",
+    "author": "ts2017185 <ts2017185@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "custom-env": "^2.0.1",
+        "express": "^4.17.1"
+    },
+    "engines": { "node": "16.x" },
+    "scripts": { "start": "node ." }
+}
